@@ -1,7 +1,7 @@
 import aiohttp
 import logging
 from aiogram import Bot, types
-from utils.logger import log
+from utils.logger import log 
 from config import load_config
 
 config = load_config()
