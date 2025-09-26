@@ -5,7 +5,8 @@
 
 # Preview🖼
 
-<img width="636" height="321" alt="image" src="https://github.com/user-attachments/assets/c9c29462-523c-4a4f-a854-08ea2bc97a2c" />
+<img width="631" height="314" alt="image" src="https://github.com/user-attachments/assets/23513dfe-3b49-4f4a-92bf-ea586b490b97" />
+
 
 
 
@@ -28,7 +29,7 @@ And more.... *in future*
 
 # Installation📩
 ```shell
-git clone https://github.com/Ko1de/GiftBuyer-Tg
+git clone https://github.com/s0rgcode/GiftBuyer-Tg
 cd GiftBuyer-Tg
 run.bat
 ```
@@ -36,7 +37,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/Ko1de/GiftBuyer-Tg
+git clone https://github.com/s0rgcode/GiftBuyer-Tg
 cd GiftBuyer-Tg
 pip install -r requirements.txt
 python main.py
